@@ -66,6 +66,9 @@ Our team worked especially well when it came to pair programing. We found it muc
 
 ##### Screenshots
 
+- ERD and Component Tree posted to Trello
+![ERD & Tree](https://monosnap.com/image/efypAAmgi8PStTBSYKp2smwNfXiwOK.png)
+
 - Sketch mockups from our designer Jacquelyn Lamkin
 ![Sketch Mockups](https://monosnap.com/image/VLxFONb4GEDhtFccfwEwsUo1n5n6uT.png)
 
