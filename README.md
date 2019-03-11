@@ -6,31 +6,31 @@ https://project-wayfarer-app-frontend.herokuapp.com
 
 ## Technologies Used
 
-..* HTML
-..* CSS
-..* Javascript
-..* React.js
-..* React Materialize components and css styling
-..* Node.js
-..* MongoDB
-..* JWT Authentication 
-..* Bcrypt
-..* Trello
-..* Sketch
-..* Balsamiq
+- HTML
+- CSS
+- Javascript
+- React.js
+- React Materialize components and css styling
+- Node.js
+- MongoDB
+- JWT Authentication 
+- Bcrypt
+- Trello
+- Sketch
+- Balsamiq
 
 ## Existing Features
 
-..* Carousel
-..* Login and Signup
-..* Create, read, and update functionality for users on the frontend
-..* City Cards in a list of cities that grab City ID from the frontend
-..* Full CRUD functionality for posts on backend
+- Carousel
+- Login and Signup
+- Create, read, and update functionality for users on the frontend
+- City Cards in a list of cities that grab City ID from the frontend
+- Full CRUD functionality for posts on backend
 
 ## Our Approach and Process
 We believe that every great project begins with good planning from start to finish. So, we tracked our projects development in trello: 
 
-..* https://trello.com/b/NHSCMc4E/wayfarer-project-product-mgmt-fantastic-4
+- https://trello.com/b/NHSCMc4E/wayfarer-project-product-mgmt-fantastic-4
 
 We began by wire-framing out our database structure, our component and dom tree, user stories, and sprints for each step of the way. We also began by setting up file structures and platforms so we could all start the project with the same tech. 
 
@@ -39,21 +39,21 @@ Our next goal was to psuedo code our backend routes and controllers and seed the
 
 ## Planned Features
 
-..* Full CRUD functionality for posts on frontend
-..* Redirect user to profile page on signup and signin
-..* Login/Signup modal
-..* Finish styling to resemble designer mockups
-..* Dynamically loading components on Cities page
+- Full CRUD functionality for posts on frontend
+- Redirect user to profile page on signup and signin
+- Login/Signup modal
+- Finish styling to resemble designer mockups
+- Dynamically loading components on Cities page
 
 ## Challenges and Wins
 Some challenges for us were:
-..* User authentication was a big win and challenge
-..* Fully functional routes and controllers for each route
-..* Trying to work around Materialize
-..* Axios calls for posts. Specifically grabbing by ID
+- User authentication was a big win and challenge
+- Fully functional routes and controllers for each route
+- Trying to work around Materialize
+- Axios calls for posts. Specifically grabbing by ID
 
 Some wins for us were:
-..* 
+- 
 
 <br />
 One of our biggest challenges was authentication. We learned that every route that requires a JWT token needed special attention and detail-oriented focus.
@@ -66,16 +66,19 @@ Our team worked especially well when it came to pair programing. We found it muc
 
 ##### Screenshots
 
-..* Sketch mockups from our designer Jacquelyn Lamkin
+- Sketch mockups from our designer Jacquelyn Lamkin
 ![Sketch Mockups](https://monosnap.com/image/VLxFONb4GEDhtFccfwEwsUo1n5n6uT.png)
 
-..* Axios call to submit user edit
+- Carousel Component
+![Carousel Component](https://monosnap.com/image/vz1wE7uw7ix3MlhEba4GyUHKS70qr0.png)
+
+- Axios call to submit user edit
 ![Submit User Edit](https://monosnap.com/image/db8ORi97wRSRnnLUowd3Z5Wy7ChzGN.png)
 
-..* Creating Posts and Users in relation to Cities
+- Creating Posts and Users in relation to Cities
 ![Seeds Posts and Users inside Cities](https://monosnap.com/image/VFV2f5CVfFlMiINlrutQXzUHmb6ZTo.png)
 
-..* Create Post function in Cities Controller
+- Create Post function in Cities Controller
 ![Create Post in Database](https://monosnap.com/image/qphhx1KLBlTxpBeak7d7sXIeS2SFi6.png)
 
 
